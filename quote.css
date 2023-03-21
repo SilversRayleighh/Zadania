@@ -1,0 +1,23 @@
+body {
+    /* background-color: rgb(61, 59, 59); */
+    background-image: url(li.webp);
+    background-repeat: no-repeat;
+     background-size: cover;
+     /* background-position: center; */
+    
+    color: aliceblue;
+}
+
+#fade {
+    opacity: 1;
+    transition: 1s opacity;
+    font-size: 32px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 200px;
+    background-color: rgb(201, 125, 183);
+    max-width: 1000px;
+    border-radius: 20px;
+    box-shadow: 30px 30px 10px rgb(98, 59, 135);
+    font-style: italic;
+}

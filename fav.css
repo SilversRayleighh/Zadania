@@ -1,0 +1,18 @@
+body {
+    background-image: url(one2.png);
+    color: aliceblue;
+}
+
+#fade {
+    opacity: 1;
+    transition: 1s opacity;
+    font-size: 32px;
+    padding: 50px;
+    margin: auto;
+    margin-top: 500px;
+    background-color: rgb(93, 152, 241);
+    max-width: 500px;
+    border-radius: 20px;
+    /* box-shadow: 30px 30px 10px black; */
+    font-style: italic;
+}
